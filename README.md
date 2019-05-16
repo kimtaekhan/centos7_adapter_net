@@ -1,0 +1,1 @@
+# centos7_adapter_net
